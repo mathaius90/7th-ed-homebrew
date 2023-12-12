@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<dataIndex battleScribeVersion="2.03" name="Warhammer 40k 7th Ed - Homebrew" indexUrl="http://pinahouse.ddns.net:8080/bsdata/40k/7th/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+<dataIndex battleScribeVersion="2.03" name="Warhammer 40k 7th Ed - Homebrew" indexUrl="https://github.com/mathaius90/7th-ed-homebrew/raw/main/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <dataIndexEntries>
     <dataIndexEntry filePath="Warhammer40K.gstz" dataType="gamesystem" dataId="e1ebd931-a209-3ce4-87b4-d9918d25530b" dataName="Warhammer 40,000 7th Edition" dataBattleScribeVersion="2.03" dataRevision="2042"/>
     <dataIndexEntry filePath="Inquisition - Codex.catz" dataType="catalogue" dataId="6e6c7c90-fc3a-84f7-48fc-47e305b2de3b" dataName="Inquisition: Codex (2013)" dataBattleScribeVersion="2.03" dataRevision="2037"/>

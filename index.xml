@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <dataIndex battleScribeVersion="2.03" name="Warhammer 40k 7th Ed - Homebrew" indexUrl="https://github.com/mathaius90/7th-ed-homebrew/raw/main/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <dataIndexEntries>
-    <dataIndexEntry filePath="Warhammer40K.gstz" dataType="gamesystem" dataId="e1ebd931-a209-3ce4-87b4-d9918d25530b" dataName="Warhammer 40,000 7th Edition" dataBattleScribeVersion="2.03" dataRevision="2042"/>
+    <dataIndexEntry filePath="Warhammer40K.gstz" dataType="gamesystem" dataId="e1ebd931-a209-3ce4-87b4-d9918d25530b" dataName="Warhammer 40K 7th Edition Homebrew" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Inquisition - Codex.catz" dataType="catalogue" dataId="6e6c7c90-fc3a-84f7-48fc-47e305b2de3b" dataName="Inquisition: Codex (2013)" dataBattleScribeVersion="2.03" dataRevision="2037"/>
     <dataIndexEntry filePath="Blood Angels - Codex (2014).catz" dataType="catalogue" dataId="6cacb5fc-d6bf-078d-307e-6f16c72d5f2a" dataName="Blood Angels: Codex (2014)" dataBattleScribeVersion="2.03" dataRevision="2024"/>
     <dataIndexEntry filePath="Cult Mechanicus Codex 2015.catz" dataType="catalogue" dataId="4fe1-8588-ca35-920b" dataName="Cult Mechanicus: Codex (2015)" dataBattleScribeVersion="2.03" dataRevision="2020"/>
